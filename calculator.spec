@@ -5,7 +5,7 @@ a = Analysis(
     ['calculator.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('Windows Ding.wav', '.'), ('Windows Error.wav', '.'), ('Windows Hardware Insert.wav', '.'), ('Windows Notify Email.wav', '.'), ('Windows User Account Control.wav', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
